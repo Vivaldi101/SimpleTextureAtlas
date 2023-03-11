@@ -1,0 +1,7 @@
+build/
+data/
+test/
+test_font/
+pngs/
+*.txt
+

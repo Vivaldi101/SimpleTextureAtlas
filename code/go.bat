@@ -1,0 +1,2 @@
+
+devenv ..\build\texpack.exe
