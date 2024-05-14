@@ -1,4 +1,4 @@
 Screenshot
 
-![image](https://github.com/Vivaldi101/SimpleTextureAtlas/assets/104928038/25238f65-0060-47f3-b6c5-bd70e79ef569)
+![atlas](https://github.com/Vivaldi101/SimpleTextureAtlas/assets/104928038/cc381e3d-01bb-4f07-b97e-b24eb04c2c19)
 
